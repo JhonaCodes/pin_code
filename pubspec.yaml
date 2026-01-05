@@ -1,11 +1,11 @@
 name: pin_code
 description: A flexible and fully customizable widget for PIN, OTP, and passcode entry. Perfect for verification screens, 2FA, transaction confirmations, and more.
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/JhonaCodes/pin_code
 
 environment:
-  sdk: ^3.8.1
-  flutter: ">=1.17.0"
+  sdk: ^3.10.0
+  flutter: ">=3.38.0"
 
 dependencies:
   flutter:
@@ -14,7 +14,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0
+  flutter_lints: ^6.0.0
 
 flutter:
 
